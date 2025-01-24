@@ -1,0 +1,21 @@
+<div class="search-form">
+    <h3>Filtrar por Tipos</h3>
+    <mat-checkbox [(ngModel)]="selectedCategories.biografia" (change)="onCategoryChange()">
+      Biografia
+    </mat-checkbox>
+    <mat-checkbox [(ngModel)]="selectedCategories.fantasia" (change)="onCategoryChange()">
+      Fantasia
+    </mat-checkbox>
+    <mat-checkbox [(ngModel)]="selectedCategories.infantil" (change)="onCategoryChange()">
+      Infantil
+    </mat-checkbox>
+    <mat-checkbox [(ngModel)]="selectedCategories.romance" (change)="onCategoryChange()">
+      Romance
+    </mat-checkbox>
+    <mat-checkbox [(ngModel)]="selectedCategories.suspense" (change)="onCategoryChange()">
+      Suspense
+    </mat-checkbox>
+    <mat-checkbox [(ngModel)]="selectedCategories.terror" (change)="onCategoryChange()">
+      Terror
+    </mat-checkbox>
+  </div>

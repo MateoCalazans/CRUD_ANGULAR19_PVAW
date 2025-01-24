@@ -1,0 +1,60 @@
+{
+  "biblioteca": [
+    {
+      "name": "O Senhor dos Anéis",
+      "historia": "",
+      "autores": "J.R.R. Tolkien",
+      "price": 60,
+      "tipos": [
+        "fantasia"
+      ],
+      "edited": false,
+      "id": "3"
+    },
+    {
+      "name": "Harry Potter e a Pedra Filosofal",
+      "historia": "",
+      "autores": "J.K. Rowling",
+      "price": 35,
+      "tipos": [
+        "fantasia",
+        "infantil"
+      ],
+      "edited": false,
+      "id": "4"
+    },
+    {
+      "name": "O Pequeno Príncipe",
+      "historia": "",
+      "autores": "Antoine de Saint-Exupéry",
+      "price": 15,
+      "tipos": [
+        "infantil"
+      ],
+      "edited": false,
+      "id": "7"
+    },
+    {
+      "name": "O Alquimista",
+      "historia": "",
+      "autores": "Paulo Coelho",
+      "price": 40,
+      "tipos": [
+        "ficcao"
+      ],
+      "edited": false,
+      "id": "9"
+    },
+    {
+      "name": "Drácula",
+      "historia": "",
+      "autores": "Bram Stoker",
+      "price": 35,
+      "tipos": [
+        "terror"
+      ],
+      "edited": false,
+      "id": "10"
+    }
+  ]
+}

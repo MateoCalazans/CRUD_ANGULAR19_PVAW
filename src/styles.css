@@ -1,0 +1,57 @@
+
+html, body { 
+  height: 100%; 
+}
+
+body {
+  font-family: 'Playwrite IN', sans-serif;
+  display: fixed;
+  justify-content: center;
+  align-items: top;
+  height: 100vh;
+  margin: 0;
+  background-color: #db7235; 
+  color: rgb(0, 0, 0); 
+}
+
+.checkbox-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; 
+  align-items: center;
+  border-radius: 50%;
+  color: rgb(0, 0, 0); 
+}
+
+.site-header {
+  text-align: center;
+  height: 450px;
+  width:500;
+  background-color: #d89c1a;
+  border-bottom: 2px solid #cc5709;
+}
+
+.site-titulo {
+  margin: 0;
+  font-size: 24px;
+  color: #050400;
+  text-align: top;
+  font-family: 'Playwrite IN', sans-serif;
+}
+
+.icon-container {
+  margin-top: 10px;
+}
+
+.site-icon {
+  width: 350px; 
+  height: 350px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  height: 200vh;
+}
